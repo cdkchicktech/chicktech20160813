@@ -1,0 +1,19 @@
+.jumbotron.hero{
+  background-image: url("../images/Ford F-150 Raptor.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+  color:  white;
+}
+
+.jumbotron.hero h1,
+.jumbotron.hero p{
+  text-shadow: 2px 2px #000;
+}
+
+footer{
+  background-color:  #333;
+  color:  white;
+  padding:  20px 0;
+}
