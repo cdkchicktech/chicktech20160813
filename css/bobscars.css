@@ -1,10 +1,18 @@
 .jumbotron.hero{
   background-image: url("../images/Ford F-150 Raptor.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: 50% 25%;
   background-size: cover;
-
   color:  white;
+}
+
+.jumbotron.vdp-hero{
+	background-image: url("../images/f1516_summerse.jpg");
+	background-position:  top right;
+	background-repeat: no-repeat;
+	background-size:  cover;
+	height:  450px;
+	margin-top:  30px;
 }
 
 .jumbotron.hero h1,
